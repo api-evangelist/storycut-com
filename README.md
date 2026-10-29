@@ -64,23 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-StoryCut is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+StoryCut provides an AI-powered platform that automatically creates short, viral‑ready videos for TikTok, Reels, Shorts and other social channels. Users upload long‑form video content and the service extracts key moments, adds dynamic captions, auto‑reframes, and applies transitions, all within seconds. The platform offers multiple caption styles, AI‑generated B‑Roll, and tools for branding, targeting creators, businesses and marketers looking to boost engagement across short‑form video platforms.
 
-**Areas:** Company
+**Areas:** Company · AI · Video · SocialMedia · Automation
 
 ## StoryCut on APIs.io
 
 Everything profiled for StoryCut is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/storycut-com/](https://apis.io/providers/storycut-com/)** — or go straight to one of the APIs or properties below.
 
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Storycut Com Domain Security](https://apis.io/security/storycut-com/storycut-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Storycut Com Plans Pricing](https://apis.io/plans/storycut-com/storycut-com-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://storycut.com)
+- [Website](https://www.storycut.com)
+- [Documentation](https://www.storycut.com/features)
+- [Pricing](https://www.storycut.com/pricing)
+- [Sign up](https://app.storycut.com/register)
+- [Blog](https://www.storycut.com/blog)
+- [Terms of service](https://www.storycut.com/terms)
+- [Privacy policy](https://www.storycut.com/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/storycut-com/](https://apis.io/providers/storycut-com/).
+**Kin Score 24.2** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 24.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/storycut-com/](https://apis.io/providers/storycut-com/).
 
 ## How this profile is made
 
